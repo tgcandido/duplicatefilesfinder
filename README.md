@@ -8,3 +8,4 @@ example: `python python dff.py C:\Users\User\Music .mp3 4
 developed with:
 - python 3.4.3
 - publime Text 3
+- windows 8.1
